@@ -9,7 +9,7 @@ function Activity() {
   return (
     <Section>
       <div className='titulo'>
-        <h4>Actividades Recientes</h4>
+        <h4>Actividad Reciente</h4>
         <h6>24 ene 2023</h6>
       </div>
       <div className='analytic'>
