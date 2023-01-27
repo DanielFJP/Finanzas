@@ -124,7 +124,7 @@ gap: 0.2rem;
       }
     }
     .color{
-      color: gray;
+      color: #18802f;
     }
   }
   .money{
